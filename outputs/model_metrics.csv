@@ -1,0 +1,3 @@
+Model,Target,Accuracy,Macro F1-score,Training Samples,Testing Samples
+Category,Ticket Type,1.0,1.0,2386,597
+Priority,Ticket Priority,1.0,1.0,2386,597
